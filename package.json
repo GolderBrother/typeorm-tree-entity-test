@@ -1,7 +1,7 @@
 {
   "name": "typeorm-tree-entity-test",
   "version": "0.0.1",
-  "description": "",
+  "description": "save relationships at any level by typeorm tree entity",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
